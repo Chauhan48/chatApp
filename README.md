@@ -2,6 +2,8 @@
 
 ![hq_1](https://github.com/Chauhan48/chatApp/assets/87568244/6f8f1e69-f853-4882-8f01-3cdf28d99825)
 
-Write
+## Build the app
 #### npm build
-on your terminal to install necessary packages
+
+## Start the app
+#### npm start
