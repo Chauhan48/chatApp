@@ -116,7 +116,8 @@
     "whatwg-url": "^13.0.0"
   },
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "build": "npm install"
   },
   "author": "",
   "license": "ISC"
